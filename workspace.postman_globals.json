@@ -1,0 +1,41 @@
+{
+	"id": "7a0645a2-f761-4d66-8712-390da3d63357",
+	"values": [
+		{
+			"key": "Accept",
+			"value": "gzip, deflate, br",
+			"enabled": true
+		},
+		{
+			"key": "Connection",
+			"value": "keep-alive",
+			"enabled": true
+		},
+		{
+			"key": "Accept-E",
+			"value": "gzip, deflate, br",
+			"enabled": true
+		},
+		{
+			"key": "size",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Limit",
+			"value": "10",
+			"enabled": true
+		},
+		{
+			"key": "Limit",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-12-15T16:30:16.176Z",
+	"_postman_exported_using": "Postman/11.22.1"
+}
